@@ -1,0 +1,108 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - cow",
+        "totalResults": "217",
+        "searchTerms": "cow",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "006958770411929327410:fwi2ehmdur1",
+        "siteSearch": "fda.gov"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - cow",
+        "totalResults": "217",
+        "searchTerms": "cow",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "active",
+        "cx": "006958770411929327410:fwi2ehmdur1",
+        "siteSearch": "fda.gov"
+      }
+    ]
+  },
+  "context": {
+    "title": "Active Litigation"
+  },
+  "searchInformation": {
+    "searchTime": 0.317653,
+    "formattedSearchTime": "0.32",
+    "totalResults": "217",
+    "formattedTotalResults": "217"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Sassy Cow Creamery, LLC - 587954 - 12/04/2019 | FDA",
+      "htmlTitle": "Sassy \u003cb\u003eCow\u003c/b\u003e Creamery, LLC - 587954 - 12/04/2019 | FDA",
+      "link": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/sassy-cow-creamery-llc-587954-12042019",
+      "recall": "Sassy Cow Creamery, LLC issues Nationwide recall of Bourbon Honey Pecan Ice Cream in Gluten Free Cookies N Cream ice cream containers"
+      "displayLink": "www.fda.gov",
+      "snippet": "Feb 25, 2020 ... The United States Food and Drug Administration (FDA) conducted an inspection \nof your ready-to-eat ice cream manufacturing facility, Sassy Cow ...",
+      "htmlSnippet": "Feb 25, 2020 \u003cb\u003e...\u003c/b\u003e The United States Food and Drug Administration (FDA) conducted an inspection \u003cbr\u003e\nof your ready-to-eat ice cream manufacturing facility, Sassy \u003cb\u003eCow\u003c/b\u003e&nbsp;...",
+      "cacheId": "lX1LnPOI7pYJ",
+      "formattedUrl": "https://www.fda.gov/...and.../sassy-cow-creamery-llc-587954-12042019",
+      "htmlFormattedUrl": "https://www.fda.gov/...and.../sassy-\u003cb\u003ecow\u003c/b\u003e-creamery-llc-587954-12042019",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_0rafL3nWDytOHUCehxFYhhjytzBDVLeSaKH3LFTuneYnMBtWGSbK8uU",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:postal_code": "53925",
+            "og:image": "http://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "Tue, 02/25/2020 - 09:20",
+            "og:site_name": "U.S. Food and Drug Administration",
+            "og:locality": "Columbus",
+            "dcterms.title": "Sassy Cow Creamery, LLC - 587954 - 12/04/2019",
+            "twitter:creator": "@US_FDA",
+            "og:description": "CGMP/Food/Prepared, Packed or Held Under Insanitary Conditions/Adulterated",
+            "twitter:image": "http://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+            "article:publisher": "FDA",
+            "twitter:site": "@US_FDA",
+            "dcterms.source": "Office of Human and Animal Food - Division I West",
+            "article:modified_time": "Tue, 02/25/2020 - 09:20",
+            "dcterms.publisher": "FDA",
+            "og:street_address": "W4192 Bristol Rd.",
+            "og:region": "WI",
+            "twitter:title": "Sassy Cow Creamery, LLC - 587954 - 12/04/2019",
+            "og:type": "Article",
+            "handheldfriendly": "true",
+            "og:title": "Sassy Cow Creamery, LLC - 587954 - 12/04/2019",
+            "dcterms.creator": "Center for Food Safety and Applied Nutrition",
+            "dcterms.description": "CGMP/Food/Prepared, Packed or Held Under Insanitary Conditions/Adulterated",
+            "og:updated_time": "Tue, 02/25/2020 - 09:20",
+            "og:country_name": "US",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "CGMP/Food/Prepared, Packed or Held Under Insanitary Conditions/Adulterated",
+            "mobileoptimized": "width",
+            "og:url": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/sassy-cow-creamery-llc-587954-12042019"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"
+          }
+        ]
+      }
+    }
+  ]
+}
